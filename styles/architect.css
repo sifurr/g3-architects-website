@@ -24,6 +24,13 @@
     color: #727272;
 }
 
+.section-title {
+    font-size: 3rem;
+    color: #131313;
+    font-weight: 700;
+}
+
+
 
 /* header */
 header {
@@ -35,13 +42,6 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-}
-
-.nav-title {
-    font-size: 3rem;
-    color: #131313;
-    font-weight: 700;
-
 }
 
 nav>ul {
